@@ -7,11 +7,13 @@ email: 21120231@student.hcmus.edu.vn
 + trình biên dịch: Microsoft Visual Studio phiên bản 2022, C++20
 + hệ điều hành: window 10
 2. các chức năng đã làm
-YÊU CẦU CƠ BẢN
+
+----------------------YÊU CẦU CƠ BẢN--------------------------
 + đọc danh sách đối tượng
 + in ra danh sách các hình đã đọc
 + Sắp xếp các hình đã đọc tăng dần theo diện tích và in ra màn hình theo dạng cột
-YÊU CẦU NÂNG CAO
+
+----------------------YÊU CẦU NÂNG CAO------------------------
 + design pattern: Factory, Strategy
 + dependency inject
 + Tách được các đối tượng hình học ra các thư viện liên kết động
